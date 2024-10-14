@@ -23,5 +23,15 @@ Read more about Laika's story [here.](https://www.smithsonianmag.com/smithsonian
 ## Hachicko:
 <img src= "https://ichef.bbci.co.uk/news/1536/cpsprodpb/31DC/production/_129346721_gettyimages-1354477395.jpg.webp">
 
+Hachiko was born in November of 1923 in the city of Odate. Not long after, he found his forever home with Hidesaburo Ueno, a renowned agricultiral professor living in Japan's Shibuya district.  
+
+Hidesaburo Ueno took the train several times a week, accompanied by his three dogs. Hachicko and the other two would wait at Shibuya station waiting for his return. Unfortunately, sixteen months after recieving Hachiko, Ueno would die of a cerebral hemmorage at the age of 53 and never return to the station or his dog again.  
+
+Even with Ueno gone, Hachiko would continue his routine while under the care od Ueno's gardener, returning to Shibuya station everyday no matter the weather. In October 1932, Asahi Shimbun wrote about Hachi's story, garnering him worldwide fame. This fame lead to food donations for him and eventually a statue that can still be seen at Shibuya statiion today. 
+
+Hachiko died on March 8, 1935 after 11 years wating for his owner. While he may no longer be with us, Hachiko continues to teach people the value of loyalty and faith. He will always be remembered as the true "man's best friend".
+
+Read more of Hachiko's story [here.](https://www.bbc.com/news/world-asia-65259426)
+
 ## Togo and Balto:
 <img src= "https://www.akc.org/wp-content/uploads/2020/03/Togo-in-Front-of-Team-circa-1925-1.jpg">
