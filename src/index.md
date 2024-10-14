@@ -1,4 +1,5 @@
 # A Tribute to Dogs
+****
 
 <img src= "https://rarehistoricalphotos.com/wp-content/uploads/2024/03/famous-dogs-from-history.jpg">
 
@@ -9,6 +10,7 @@ If fortune drives the master forth, an outcast in the world, friendless and home
 George Graham Vest - c. 1855
 
 ## Laika
+****
 <img src= "https://th-thumbnailer.cdn-si-edu.com/uylxR2L5kRWDI4VXhRnyfYkowhA=/fit-in/1072x0/filters:focal(617x240:618x241)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/97/20/9720e246-d482-439b-a7a3-a5ad143d154d/web11867-2011h.jpg">
 
 Laika, once a random Russian stray became world famous when she took off on her mission into outer space aboard *Sputnik 2* on November 3, 1957 – from which she would never return. 
@@ -21,6 +23,7 @@ Read more about Laika's story [here.](https://www.smithsonianmag.com/smithsonian
 
 
 ## Hachicko
+****
 <img src= "https://ichef.bbci.co.uk/news/1536/cpsprodpb/31DC/production/_129346721_gettyimages-1354477395.jpg.webp">
 
 Hachiko was born in November of 1923 in the city of Odate. Not long after, he found his forever home with Hidesaburo Ueno, a renowned agricultiral professor living in Japan's Shibuya district.  
@@ -34,6 +37,7 @@ Hachiko died on March 8, 1935 after 11 years wating for his owner. While he may 
 Read more of Hachiko's story [here.](https://www.bbc.com/news/world-asia-65259426)
 
 ## Togo
+****
 <img src= "https://www.akc.org/wp-content/uploads/2020/03/Togo-in-Front-of-Team-circa-1925-1.jpg">
 While many have heard of Balto, the famous Alaskan sled dog, few know of Togo. Togo was a crucial dog on widely respected musher Leonhard Seppala's sled team that would help deliver life saving antitoxin to the people of Nome in 1925 after a diphtheria outbreak.  
 
@@ -44,3 +48,5 @@ Back in Seppala's ownership, Togo would often escape his harness as a puppy to r
 Togo was 12 years old when his true time to shine came, far past a typical sled dogs prime. On January 29th, 1925, Seppala, Togo, and the rest of the 20 dog team set out to bring the antitoxin to the people of Nome. The harrowing journey took three days and 170 miles before they made it to Golovin where the antitoxin would be handed off to Gunnar Kaasen and Balto, who would finish the final 78 mile stretch.  
 
 While many may not know his name or his story, Togo truly is a hero to the people of Nome. He will be remembered for his courage and strongwill, something that we can all take a lesson from. 
+
+Learn more about Togo's story [here.](https://www.akc.org/expert-advice/news/togo-siberian-husky-sled-dog-hero-of-1925/)
